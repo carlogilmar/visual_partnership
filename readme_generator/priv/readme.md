@@ -14,4 +14,4 @@ Visual Partnership
 
 | C O V E R | About |
 | :---:        |     :---:      |
-<% table %>
+<%= table %>
