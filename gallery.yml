@@ -13,31 +13,19 @@ support: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ultrices
   diam sagittis metus, eget interdum erat arcu ac mi. Sed et nisi felis. Aenean suscipit
   maximus elementum. Aliquam eget pharetra velit.
 gallery:
-- cover_img: url
-  date_created: 01-jun
-  title: Phoenix live views
+- cover_img: https://pbs.twimg.com/media/EZeA3WeU0AEbojz?format=jpg&name=large
+  date_created: June 1, 2020
+  title: Secciones de todo CV
+  description: Registro gráfico de una charla de Don Chambitas
   tags:
   - elixir
   - phoenix
-  gallery_url: gallery_url
-- cover_img: url
-  date_created: 01-jun
-  title: Phoenix live views
+  gallery_url: https://github.com/carlogilmar
+- cover_img: https://pbs.twimg.com/media/EZeA3WeU0AEbojz?format=jpg&name=large
+  date_created: June 1, 2020
+  title: Secciones de todo CV
+  description: Registro gráfico de una charla de Don Chambitas
   tags:
   - elixir
   - phoenix
-  gallery_url: gallery_url
-- cover_img: url
-  date_created: 01-jun
-  title: Phoenix live views
-  tags:
-  - elixir
-  - phoenix
-  gallery_url: gallery_url
-- cover_img: url
-  date_created: 01-jun
-  title: Phoenix live views
-  tags:
-  - elixir
-  - phoenix
-  gallery_url: gallery_url
+  gallery_url: https://github.com/carlogilmar
