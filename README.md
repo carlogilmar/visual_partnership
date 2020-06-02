@@ -1,19 +1,22 @@
 # Visual Partnership
 
-http//:google.com.png
+![](https://res.cloudinary.com/carlogilmar/image/upload/v1591081573/open_visual_partner/IMG_5737_u4ilpl.png)
 
-## What it is?
+## About this project: 🖍 + 💻 + ❤️
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ultrices malesuada pulvinar. Quisque dapibus erat felis, at commodo nisi suscipit sed. Mauris non tristique quam. Phasellus sit amet mauris nec quam hendrerit elementum. Duis ac ante egestas, lacinia justo quis, pharetra magna. Donec laoreet, orci ac ornare vehicula, turpis diam sagittis metus, eget interdum erat arcu ac mi. Sed et nisi felis. Aenean suscipit maximus elementum. Aliquam eget pharetra velit.
+This project is the result of combine Visual Thinking 🖍 with Software Development 💻. We're supporting community events and open source projects ⭐️ with a special graphic recording service. We're creating not only illustrations, we prefer use the term "Learning Resources", this graphics are the result of a visual translation on real time during a talk or a workshop. This content could be used as a learning material for everyone. Our mission is contribute to more Open Source projects and communities.
 
-## How to request this support?
+## How to request this support? 🚀 🇲🇽
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ultrices malesuada pulvinar. Quisque dapibus erat felis, at commodo nisi suscipit sed. Mauris non tristique quam. Phasellus sit amet mauris nec quam hendrerit elementum. Duis ac ante egestas, lacinia justo quis, pharetra magna. Donec laoreet, orci ac ornare vehicula, turpis diam sagittis metus, eget interdum erat arcu ac mi. Sed et nisi felis. Aenean suscipit maximus elementum. Aliquam eget pharetra velit.
+We're part of GitHub Sponsors 🎊❤️ ! You can be an Sponsor of this project and support our work! Also you can sponsor the graphic recording of any event of project that you want to have some graphic records. 🖍
 
-## Gallery
+## Open Graphic Recordings 👩‍🎨
 
 | C O V E R | About |
-| :---:        |     :---:      |
- | [ Secciones de todo CV <br/><img src="https://pbs.twimg.com/media/EZeA3WeU0AEbojz?format=jpg&name=large" width="35%"/><br/>Created: June 1, 2020](https://github.com/carlogilmar) | Registro gráfico de una charla de Don Chambitas </br> `elixir`, `phoenix` |
- | [ Secciones de todo CV <br/><img src="https://pbs.twimg.com/media/EZeA3WeU0AEbojz?format=jpg&name=large" width="35%"/><br/>Created: June 1, 2020](https://github.com/carlogilmar) | Registro gráfico de una charla de Don Chambitas </br> `elixir`, `phoenix` |
+| :-------: | :---: |
+ | [ Las 5 secciones de un CV <br/><img src="https://res.cloudinary.com/carlogilmar/image/upload/v1591081945/open_visual_partner/Don%20Chambitas/Ilustracio%CC%81n_sin_ti%CC%81tulo_48_tubvaz.png" width="35%"/><br/>Created: June 1, 2020](/graphic_recordings/secciones_cv.md) | Registro gráfico de una charla de @DonChambitas, reclutador de TI. </br> `reclutamiento`, `TI` |
 
+
+## Request Graphic Recordings for your private events
+
+If you want to request this service for your online meetings, remote events, talks, etc, you can write to **visualpartnership@gmail.com** or send a tweet to **@visual_partner** and tell us more about your event. 🙂
