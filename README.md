@@ -9,7 +9,7 @@ This project is the result of combine Visual Thinking 🖍 with Software Develop
 
 ## How to request this support? 🚀 🇲🇽
 
-We're part of GitHub Sponsors 🎊❤️ ! You can be an Sponsor of this project and support our work! Also you can sponsor the graphic recording of any event of project that you want to have some graphic records. 🖍
+We're part of GitHub Sponsors 🎊❤️ ! You can be an Sponsor of this project and support our work! Also you can sponsor the graphic recording of any event of project that you want to have some graphic records. 🖍 If you want to collaborate with us please open an Issue and tell us about your project/meeting, we'll be happy to help you!
 
 ## Open Graphic Recordings 👩‍🎨
 
