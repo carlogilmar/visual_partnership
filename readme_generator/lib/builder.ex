@@ -1,4 +1,4 @@
-defmodule ReadmeGenerator.Builder do
+defmodule ReadmeGenerator.ContentBuilder do
   @yaml_file "gallery.yml"
   alias ReadmeGenerator.Models.{Item, Readme}
 
