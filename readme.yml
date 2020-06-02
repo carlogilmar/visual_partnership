@@ -11,3 +11,12 @@ gallery:
   - reclutamiento
   - TI
   gallery_url: /graphic_recordings/secciones_cv.md
+- cover_img: https://res.cloudinary.com/carlogilmar/image/upload/v1591082858/open_visual_partner/Telemetry/IMG_5696_kxyhp4.png
+  date_created: May, 2020
+  title: Phoenix 1.5, Telemetry and Dashboard
+  description: Talk in the Elixir NYC Meetup by Sophie DeBenedetto
+  tags:
+  - meetup
+  - elixir
+  - phoenix
+  gallery_url: /graphic_recordings/elixir_nyc_meetup.md
