@@ -1,6 +1,7 @@
 # Visual Partnership
 
-![](https://res.cloudinary.com/carlogilmar/image/upload/v1591081573/open_visual_partner/IMG_5737_u4ilpl.png)
+[ <img src="https://res.cloudinary.com/carlogilmar/image/upload/v1591081573/open_visual_partner/IMG_5737_u4ilpl.png" width="45%"/> ]()
+[ <img src="https://res.cloudinary.com/carlogilmar/image/upload/v1591081573/open_visual_partner/Ilustracio%CC%81n_sin_ti%CC%81tulo_46_kmdl4s.png" width="45%"/> ]()
 
 ## About this project: 🖍 + 💻 + ❤️
 
