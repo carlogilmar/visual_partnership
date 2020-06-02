@@ -20,3 +20,85 @@ gallery:
   - elixir
   - phoenix
   gallery_url: /graphic_recordings/elixir_nyc_meetup.md
+- cover_img: https://res.cloudinary.com/carlogilmar/image/upload/v1591106257/open_visual_partner/GitHub%20Pages/IMG_5623_2_qtsyvz.png
+  date_created: May, 2020
+  title: GitHub Pages Workshop
+  description: Workshop by @cynthiarich07
+  tags:
+  - GitHub
+  - Jekyll
+  gallery_url: /graphic_recordings/ghpages.md
+- cover_img: https://res.cloudinary.com/carlogilmar/image/upload/v1591106075/open_visual_partner/GitHub%20Satellite%202020/IMG_6037_owaohv.jpg
+  date_created: May, 2020
+  title: GitHub Satellite Virtual 2020
+  description: GitHub Satellite
+  tags:
+  - GitHub
+  gallery_url: /graphic_recordings/satellite2020.md
+- cover_img: https://res.cloudinary.com/carlogilmar/image/upload/v1591106117/open_visual_partner/GitHub%20CLI/Visual_Talk_Resume_1_o2w4tj.jpg
+  date_created: March, 2020
+  title: GitHub CLI
+  description: Talk by @ALAColombia
+  tags:
+  - GitHub
+  - Unix
+  - GitHub CLI
+  gallery_url: /graphic_recordings/github_cli.md
+- cover_img: https://res.cloudinary.com/carlogilmar/image/upload/v1591106365/open_visual_partner/SG%20Next%20Virtual%202020/IMG_5747_rx2d5l.jpg
+  date_created: April, 2020
+  title: Software Guru Virtual Conference
+  description: Virtual Conferences
+  tags:
+  - Spotify
+  - Elixir
+  - CI/CD
+  - Elm
+  gallery_url: /graphic_recordings/sg_virtual.md
+- cover_img: https://res.cloudinary.com/carlogilmar/image/upload/v1591106399/open_visual_partner/Elixir%20Meetup%20Abril%202020/IMG_5929_dkd8t5.jpg
+  date_created: April, 2020
+  title: Elixir CDMX Meetup
+  description: Talk by @neodevelop
+  tags:
+  - meetup
+  - Elixir
+  - Functional Programming
+  gallery_url: /graphic_recordings/elixir_cdmx_april.md
+- cover_img: https://res.cloudinary.com/carlogilmar/image/upload/v1591106465/open_visual_partner/AWS%20Meetup%20Marzo/IMG_5046_dz69sj.jpg
+  date_created: Marzo, 2020
+  title: AWS CDMX Meetup de Marzo
+  description: Panel sobre mujeres en tecnología
+  tags:
+  - meetup
+  - AWS
+  gallery_url: /graphic_recordings/aws_cdmx_april.md
+- cover_img: https://res.cloudinary.com/carlogilmar/image/upload/v1591106706/open_visual_partner/Elixir%20Marzo%202020/A9DBA80C-C99D-4F8A-9592-0475BCC55F78_mutycm.jpg
+  date_created: Marzo, 2020
+  title: Elixir CDMX Meetup
+  description: Charlas por Norberto Ortigoza y Bruce Williams
+  tags:
+  - meetup
+  - Elixir
+  gallery_url: /graphic_recordings/elixir_meetup_cdmx_marzo.md
+- cover_img: https://res.cloudinary.com/carlogilmar/image/upload/v1591106823/open_visual_partner/AWS%20Meetup%20Enero%202020/IMG_4618_jvngqd.jpg
+  date_created: Enero, 2020
+  title: AWS CDMX Meetup de Enero
+  description: Pláticas sobre AWS ReInvent
+  tags:
+  - meetup
+  - AWS
+  gallery_url: /graphic_recordings/aws_cdmx_enero.md
+- cover_img: https://res.cloudinary.com/carlogilmar/image/upload/v1591106879/open_visual_partner/Tejiendo%20Nuestra%20RedIS%202020/IMG_4314_iexcq6.jpg
+  date_created: Enero, 2020
+  title: Tejiendo nuestra RedIS
+  description: Charlas sobre Ingeniería de Software por Hanna Oktaba
+  tags:
+  - Software Engineering
+  gallery_url: /graphic_recordings/redis.md
+- cover_img: https://res.cloudinary.com/carlogilmar/image/upload/v1567807754/carlogilmar/ElixirLiveViews_2_nfpzjy.png
+  date_created: Sep, 2019
+  title: Phoenix Live Views
+  description: This illustration are the visual guides to learn Live Views.
+  tags:
+  - Elixir
+  - Phoenix
+  gallery_url: /graphic_recordings/live_views.md
