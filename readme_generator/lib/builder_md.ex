@@ -6,10 +6,6 @@ defmodule ReadmeGenerator.BuilderMD do
     content
   end
 
-  def build_md_content(template, params) do
-    EEx.eval_string(template, params)
-  end
-
   def write_md_file(md_content) do
     {:ok, file} = File.open("README.md", [:write])
     IO.binwrite(file, md_content)
@@ -18,8 +14,9 @@ defmodule ReadmeGenerator.BuilderMD do
   end
 
   def create_readme(params) do
-    template = get_template_content()
-    content = EEx.eval_string(template, params)
-    write_md_file(content)
+    get_template_content()
+    |> EEx.eval_string(params)
+    |> write_md_file()
   end
+
 end
