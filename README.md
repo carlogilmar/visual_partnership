@@ -16,6 +16,7 @@ We're part of GitHub Sponsors 🎊❤️ ! You can be an Sponsor of this project
 | C O V E R | About |
 | :-------: | :---: |
  | [ Las 5 secciones de un CV <br/><img src="https://res.cloudinary.com/carlogilmar/image/upload/v1591081945/open_visual_partner/Don%20Chambitas/Ilustracio%CC%81n_sin_ti%CC%81tulo_48_tubvaz.png" width="35%"/><br/>Created: June 1, 2020](/graphic_recordings/secciones_cv.md) | Registro gráfico de una charla de @DonChambitas, reclutador de TI. </br> `reclutamiento`, `TI` |
+ | [ Phoenix 1.5, Telemetry and Dashboard <br/><img src="https://res.cloudinary.com/carlogilmar/image/upload/v1591082858/open_visual_partner/Telemetry/IMG_5696_kxyhp4.png" width="35%"/><br/>Created: May, 2020](/graphic_recordings/elixir_nyc_meetup.md) | Talk in the Elixir NYC Meetup by Sophie DeBenedetto </br> `meetup`, `elixir`, `phoenix` |
 
 
 ## Request Graphic Recordings for your private events
