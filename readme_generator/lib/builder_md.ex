@@ -7,7 +7,9 @@ defmodule ReadmeGenerator.BuilderMD do
   end
 
   defp write_md_file(md_content) do
-    {:ok, file} = File.open("README.md", [:write])
+    {path, 0} = System.cmd "pwd", []
+    [dir, _] = String.split(path, "readme_generator")
+    {:ok, file} = File.open("#{dir}README.md", [:write])
     IO.binwrite(file, md_content)
     :ok = File.close(file)
     :created
