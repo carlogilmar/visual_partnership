@@ -1,4 +1,4 @@
-Visual Partnership
+# Visual Partnership
 
 <%= logo %>
 
