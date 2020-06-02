@@ -11,7 +11,7 @@ defmodule ReadmeGenerator.BuilderMD do
   end
 
   def write_md_file(md_content) do
-    {:ok, file} = File.open("readme_#{:os.system_time(:millisecond)}.md", [:write])
+    {:ok, file} = File.open("README.md", [:write])
     IO.binwrite(file, md_content)
     :ok = File.close(file)
     :created
