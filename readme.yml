@@ -3,6 +3,22 @@ logo: https://res.cloudinary.com/carlogilmar/image/upload/v1591081573/open_visua
 about_it: This project is the result of combine Visual Thinking 🖍 with Software Development 💻. We're supporting community events and open source projects ⭐️ with a special graphic recording service. We're creating not only illustrations, we prefer use the term "Learning Resources", this graphics are the result of a visual translation on real time during a talk or a workshop. This content could be used as a learning material for everyone. Our mission is contribute to more Open Source projects and communities.
 support: We're part of GitHub Sponsors 🎊❤️ ! You can be an Sponsor of this project and support our work! Also you can sponsor the graphic recording of any event of project that you want to have some graphic records. 🖍 If you want to collaborate with us please open an Issue and tell us about your project/meeting, we'll be happy to help you!
 gallery:
+- cover_img: https://res.cloudinary.com/carlogilmar/image/upload/v1595972139/illustrations/Behind%20the%20code/IMG_5872_ousfi2.png
+  date_created: July 9, 2020
+  title: The one who created elixir
+  description: Interview with Jose Valim by Behind the code
+  tags:
+  - Elixir
+  gallery_url: /graphic_recordings/josevalim.md
+- cover_img: https://res.cloudinary.com/carlogilmar/image/upload/v1595972183/illustrations/Virtual%20BEAM%20Meetup/IMG_5870_nfo5kx.png
+  date_created: July 8, 2020
+  title: Virtual BEAM Meetup
+  description: Meetup about OTP Systems and GRiSP.
+  tags:
+  - Elixir
+  - Erlang
+  - BEAM
+  gallery_url: /graphic_recordings/beam_meetup.md
 - cover_img: https://res.cloudinary.com/carlogilmar/image/upload/v1595972536/illustrations/Registros%20Gra%CC%81ficos%202020-1/Ilustracio%CC%81n_sin_ti%CC%81tulo_73_msxwrk.png
   date_created: June 20, 2020
   title: GDG Celaya Meetup
