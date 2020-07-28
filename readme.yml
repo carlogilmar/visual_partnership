@@ -19,6 +19,15 @@ gallery:
   - Erlang
   - BEAM
   gallery_url: /graphic_recordings/beam_meetup.md
+- cover_img: https://res.cloudinary.com/carlogilmar/image/upload/v1595977349/illustrations/OTP%20Elixir%20Course/IMG_5854_o8tmf2.png
+  date_created: July 4, 2020
+  title: OTP Elixir Course
+  description: Notes about OTP
+  tags:
+  - Elixir
+  - Erlang
+  - OTP
+  gallery_url: /graphic_recordings/otp.md
 - cover_img: https://res.cloudinary.com/carlogilmar/image/upload/v1595972536/illustrations/Registros%20Gra%CC%81ficos%202020-1/Ilustracio%CC%81n_sin_ti%CC%81tulo_73_msxwrk.png
   date_created: June 20, 2020
   title: GDG Celaya Meetup

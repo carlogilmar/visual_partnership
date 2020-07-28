@@ -1,4 +1,4 @@
-# Phoenix Live Views
+#
 
 | Date Created | Visual Partner Author |
 | :----------: |:---------------------:|
@@ -12,10 +12,5 @@ This graphic recording was sponsorship by: @carlogilmar and my GitHub Sponsors
 
 ## Illustrations
 
-![](https://pbs.twimg.com/media/EZeA3WeU0AEbojz?format=jpg&name=large)
+![](h)
 
-![](https://pbs.twimg.com/media/EZeA3WeU0AEbojz?format=jpg&name=large)
-
-![](https://pbs.twimg.com/media/EZeA3WeU0AEbojz?format=jpg&name=large)
-
-![](https://pbs.twimg.com/media/EZeA3WeU0AEbojz?format=jpg&name=large)
