@@ -19,6 +19,15 @@ gallery:
   - Erlang
   - BEAM
   gallery_url: /graphic_recordings/beam_meetup.md
+- cover_img: https://res.cloudinary.com/carlogilmar/image/upload/v1595971779/illustrations/AWSSummit%20Online/IMG_5849_tqccj2.png
+  date_created: July 6, 2020
+  title: AWS Summit Online
+  description: Graphic recordings of some sessions
+  tags:
+  - AWS
+  - Security
+  - Event-Driven
+  gallery_url: /graphic_recordings/aws.md
 - cover_img: https://res.cloudinary.com/carlogilmar/image/upload/v1595977349/illustrations/OTP%20Elixir%20Course/IMG_5854_o8tmf2.png
   date_created: July 4, 2020
   title: OTP Elixir Course
