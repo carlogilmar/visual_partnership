@@ -54,6 +54,15 @@ gallery:
   - Elixir
   - Functional Programming
   gallery_url: /graphic_recordings/elixir_cdmx_april.md
+- cover_img: https://res.cloudinary.com/carlogilmar/image/upload/v1591106117/open_visual_partner/GitHub%20CLI/Visual_Talk_Resume_1_o2w4tj.jpg
+  date_created: March, 2020
+  title: GitHub CLI
+  description: Talk by @ALAColombia
+  tags:
+  - GitHub
+  - Unix
+  - GitHub CLI
+  gallery_url: /graphic_recordings/github_cli.md
 - cover_img: https://res.cloudinary.com/carlogilmar/image/upload/v1591106465/open_visual_partner/AWS%20Meetup%20Marzo/IMG_5046_dz69sj.jpg
   date_created: Marzo, 2020
   title: AWS CDMX Meetup de Marzo
