@@ -154,3 +154,12 @@ gallery:
   - Elixir
   - Phoenix
   gallery_url: /graphic_recordings/live_views.md
+- cover_img: https://res.cloudinary.com/carlogilmar/image/upload/v1586570168/illustrations/Books%20Reviews/IMG_6898_c4fci6.jpg
+  date_created: Sep, 2018
+  title: Mastering Phoenix Framework
+  description: Visual Resume of this book from @shankardevy
+  tags:
+  - Elixir
+  - Phoenix
+  - Book Review
+  gallery_url: /graphic_recordings/phoenix_review.md
