@@ -20,6 +20,7 @@ We're part of GitHub Sponsors 🎊❤️ ! You can be an Sponsor of this project
 
 | C O V E R | About |
 | :-------: | :---: |
+ | [ How to Build Clojerl Apps <br/><img src="https://res.cloudinary.com/carlogilmar/image/upload/v1596507270/illustrations/Virtual%20BEAM%20July%202020/Ilustracio%CC%81n_sin_ti%CC%81tulo_cgo4oo.png" width="35%"/><br/>Created: August 3, 2020](/graphic_recordings/vbeam_july.md) | Virtual BEAM Meetup </br> `Clojure`, `BEAM`, `Elixir`, `Erlang` |
  | [ Visual Thinking for Octogatos GitHub <br/><img src="https://res.cloudinary.com/carlogilmar/image/upload/v1595972305/illustrations/Octogatos%20Workshop/Ilustracio%CC%81n_sin_ti%CC%81tulo_99_ay8tar.png" width="35%"/><br/>Created: July 24, 2020](/graphic_recordings/octogatos.md) | Workshop about Visual Thinking </br> `GitHub`, `Octogatos`, `GitHub Actions`, `Visual Thinking` |
  | [ The one who created elixir <br/><img src="https://res.cloudinary.com/carlogilmar/image/upload/v1595972139/illustrations/Behind%20the%20code/IMG_5872_ousfi2.png" width="35%"/><br/>Created: July 9, 2020](/graphic_recordings/josevalim.md) | Interview with Jose Valim by Behind the code </br> `Elixir` |
  | [ Virtual BEAM Meetup <br/><img src="https://res.cloudinary.com/carlogilmar/image/upload/v1595972183/illustrations/Virtual%20BEAM%20Meetup/IMG_5870_nfo5kx.png" width="35%"/><br/>Created: July 8, 2020](/graphic_recordings/beam_meetup.md) | Meetup about OTP Systems and GRiSP. </br> `Elixir`, `Erlang`, `BEAM` |
