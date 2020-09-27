@@ -16,26 +16,6 @@ support: We're part of GitHub Sponsors 🎊❤️ ! You can be an Sponsor of thi
 gallery:
 - cover_img: https://res.cloudinary.com/carlogilmar/image/upload/v1596507270/illustrations/Virtual%20BEAM%20July%202020/Ilustracio%CC%81n_sin_ti%CC%81tulo_cgo4oo.png
   date_created: August 3, 2020
-  title: Más Pruebas con GitHub  Actions
-  description: Prueba con GitHub Actions!
-  tags:
-  - Clojure
-  - BEAM
-  - Elixir
-  - Erlang
-  gallery_url: /graphic_recordings/vbeam_july.md
-- cover_img: https://res.cloudinary.com/carlogilmar/image/upload/v1596507270/illustrations/Virtual%20BEAM%20July%202020/Ilustracio%CC%81n_sin_ti%CC%81tulo_cgo4oo.png
-  date_created: August 3, 2020
-  title: Más Pruebas
-  description: Prueba
-  tags:
-  - Clojure
-  - BEAM
-  - Elixir
-  - Erlang
-  gallery_url: /graphic_recordings/vbeam_july.md
-- cover_img: https://res.cloudinary.com/carlogilmar/image/upload/v1596507270/illustrations/Virtual%20BEAM%20July%202020/Ilustracio%CC%81n_sin_ti%CC%81tulo_cgo4oo.png
-  date_created: August 3, 2020
   title: How to Build Clojerl Apps
   description: Virtual BEAM Meetup
   tags:
