@@ -22,12 +22,12 @@ jobs:
         restore-keys: ${{ runner.os }}-mix-
     - name: "Creating Generator"
       run: |
-				cd readme_generator
-				mix deps.get
-				echo "Deps installed.."
-				mix generator
-				echo "Generator running..."
-				cd ..
+        cd readme_generator
+        mix deps.get
+        echo "Deps installed.."
+        mix generator
+        echo "Generator running..."
+        cd ..
         echo "Commit changes..."
         date > generated.txt
         git config user.name github-actions
