@@ -1,0 +1,37 @@
+name: Elixir Generator
+on: push
+
+jobs:
+  build:
+
+    name: Build, get deps, and run unit tests
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Elixir
+      uses: actions/setup-elixir@v1
+      with:
+        elixir-version: '1.10.3' # Define the elixir version [required]
+        otp-version: '22.3' # Define the OTP version [required]
+    - name: Restore dependencies cache
+      uses: actions/cache@v2
+      with:
+        path: deps
+        key: ${{ runner.os }}-mix-${{ hashFiles('**/mix.lock') }}
+        restore-keys: ${{ runner.os }}-mix-
+    - name: "Creating Generator"
+      run: |
+				cd readme_generator
+				mix deps.get
+				echo "Deps installed.."
+				mix generator
+				echo "Generator running..."
+				cd ..
+        echo "Commit changes..."
+        date > generated.txt
+        git config user.name github-actions
+        git config user.email github-actions@github.com
+        git add .
+        git commit -m "GitHub Actions: Gallery updated!"
+        git push
