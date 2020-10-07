@@ -22,6 +22,7 @@ jobs:
         restore-keys: ${{ runner.os }}-mix-
     - name: "Creating Generator"
       run: |
+        export DEVTO_API_KEY="${{ secrets.DEVTO_API_KEY }}"
         cd readme_generator
         mix deps.get
         echo "Deps installed.."
