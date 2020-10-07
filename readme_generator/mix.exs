@@ -21,7 +21,9 @@ defmodule ReadmeGenerator.MixProject do
   # Run "mix help deps" to learn about dependencies.
   defp deps do
     [
-      {:yaml_elixir, "~> 2.4"}
+      {:yaml_elixir, "~> 2.4"},
+      {:httpoison, "~> 1.6"},
+      {:poison, "~> 3.1"}
     ]
   end
 end
