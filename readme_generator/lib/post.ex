@@ -1,10 +1,10 @@
-defmodule ReadmeGenerator.Post do
+defmodule ReadmeGenerator.Publish do
   @moduledoc """
     Simple module to send blog post to Dev.To
   """
   alias ReadmeGenerator.DevTo
 
-  def post do
+  def post_dev_to do
     {path, 0} = System.cmd("pwd", [])
     [dir, _] = String.split(path, "readme_generator")
     {res, 0} = System.cmd("ls", ["#{dir}to_publish"])
