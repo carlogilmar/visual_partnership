@@ -2,7 +2,7 @@ name: Elixir Generator
 on:
   push:
     branches:
-      - master
+      - demo
 
 jobs:
   build:
@@ -29,12 +29,12 @@ jobs:
         cd readme_generator
         mix deps.get
         echo "Deps installed.."
-        mix generator
+        mix publish
         echo "Generator running..."
         cd ..
         echo "Commit changes..."
         git config user.name github-actions
         git config user.email github-actions@github.com
         git add .
-        git commit -m "GitHub Actions: Gallery updated!"
+        git commit -m "GitHub Actions: Published in DevTo!"
         git push
