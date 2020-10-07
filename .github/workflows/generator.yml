@@ -25,7 +25,7 @@ jobs:
         cd readme_generator
         mix deps.get
         echo "Deps installed.."
-        mix generator
+        mix publish
         echo "Generator running..."
         cd ..
         echo "Commit changes..."
