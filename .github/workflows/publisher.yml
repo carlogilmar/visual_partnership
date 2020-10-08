@@ -1,8 +1,8 @@
-name: Elixir Generator
+name: Dev To Published
 on:
   push:
     branches:
-      - demo
+      - develop
 
 jobs:
   build:
