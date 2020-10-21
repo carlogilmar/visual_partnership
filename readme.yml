@@ -22,7 +22,7 @@ gallery:
   - Phoenix Framework
   - Elixir
   - Erlang
-  gallery_url: /graphic_recordings/virtual_beam_october.md.md
+  gallery_url: /graphic_recordings/virtual_beam_october.md
 - cover_img: https://res.cloudinary.com/carlogilmar/image/upload/v1603304168/Deliverables/ElixirConfKeynotes/Ilustracio%CC%81n_sin_ti%CC%81tulo_hgvw8e.png
   date_created: October, 2020
   title: Elixir Conf Virtual 2020
