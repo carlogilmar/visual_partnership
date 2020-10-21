@@ -20,6 +20,7 @@ We're part of GitHub Sponsors 🎊❤️ ! You can be an Sponsor of this project
 
 | C O V E R | About |
 | :-------: | :---: |
+ | [ Elixir Conf Virtual 2020 <br/><img src="https://res.cloudinary.com/carlogilmar/image/upload/v1603304168/Deliverables/ElixirConfKeynotes/Ilustracio%CC%81n_sin_ti%CC%81tulo_hgvw8e.png" width="35%"/><br/>Created: October, 2020](/graphic_recordings/elixir_conf_virtual.md) | Graphic Recordings of the keynotes of Elixir Conf Virtual </br> `ElixirConf`, `Elixir`, `Erlang` |
  | [ OctogatosConf 2020 <br/><img src="https://res.cloudinary.com/carlogilmar/image/upload/v1601010126/Deliverables/OctogatosConfDay1/IMG_0109_k5g5ar.png" width="35%"/><br/>Created: Sept 24, 2020](/graphic_recordings/octogatosconf.md) | Graphic Recordings of the OctogatosConf20 day 1 and day 2 </br> `GitHub`, `Octogatos`, `Latinx in tech` |
  | [ How to Build Clojerl Apps <br/><img src="https://res.cloudinary.com/carlogilmar/image/upload/v1596507270/illustrations/Virtual%20BEAM%20July%202020/Ilustracio%CC%81n_sin_ti%CC%81tulo_cgo4oo.png" width="35%"/><br/>Created: August 3, 2020](/graphic_recordings/vbeam_july.md) | Virtual BEAM Meetup </br> `Clojure`, `BEAM`, `Elixir`, `Erlang` |
  | [ Visual Thinking for Octogatos GitHub <br/><img src="https://res.cloudinary.com/carlogilmar/image/upload/v1595972305/illustrations/Octogatos%20Workshop/Ilustracio%CC%81n_sin_ti%CC%81tulo_99_ay8tar.png" width="35%"/><br/>Created: July 24, 2020](/graphic_recordings/octogatos.md) | Workshop about Visual Thinking </br> `GitHub`, `Octogatos`, `GitHub Actions`, `Visual Thinking` |
