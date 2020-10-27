@@ -20,6 +20,7 @@ We're part of GitHub Sponsors 🎊❤️ ! You can be an Sponsor of this project
 
 | C O V E R | About |
 | :-------: | :---: |
+ | [ Next JS Keynote <br/><img src="https://res.cloudinary.com/carlogilmar/image/upload/v1603821276/Deliverables/NExt%20js/Ilustracio%CC%81n_sin_ti%CC%81tulo_63_jfzoux.png" width="35%"/><br/>Created: October, 2020](/graphic_recordings/nextjs.md) | Graphic Recordings of keynote </br> `Vercel`, `Next JS`, `React JS`, `JS` |
  | [ Virtual BEAM Meetup <br/><img src="https://res.cloudinary.com/carlogilmar/image/upload/v1603304192/Deliverables/ElixirConfKeynotes/Ilustracio%CC%81n_sin_ti%CC%81tulo_54_lbw3ua.png" width="35%"/><br/>Created: October, 2020](/graphic_recordings/virtual_beam_october.md) | Graphic Recordings of talk in the meetup </br> `Phoenix Framework`, `Elixir`, `Erlang` |
  | [ Elixir Conf Virtual 2020 <br/><img src="https://res.cloudinary.com/carlogilmar/image/upload/v1603304168/Deliverables/ElixirConfKeynotes/Ilustracio%CC%81n_sin_ti%CC%81tulo_hgvw8e.png" width="35%"/><br/>Created: October, 2020](/graphic_recordings/elixir_conf_virtual.md) | Graphic Recordings of the keynotes of Elixir Conf Virtual </br> `ElixirConf`, `Elixir`, `Erlang` |
  | [ OctogatosConf 2020 <br/><img src="https://res.cloudinary.com/carlogilmar/image/upload/v1601010126/Deliverables/OctogatosConfDay1/IMG_0109_k5g5ar.png" width="35%"/><br/>Created: Sept 24, 2020](/graphic_recordings/octogatosconf.md) | Graphic Recordings of the OctogatosConf20 day 1 and day 2 </br> `GitHub`, `Octogatos`, `Latinx in tech` |
